@@ -17,7 +17,7 @@ docker run -it -d \
 -e PGADMIN_DEFAULT_EMAIL=root@qq.com \
 -p 5433:80 \
 -e PGADMIN_DEFAULT_PASSWORD=123456 dpage/pgadmin4
-
+![Alt text](image.png)
 
 
 ```
